@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "o3NzXQmzrmc/SKWgiPji6p+RIVr0T6e5UgbIiUuST2Z5uTLKvb7Fd/Ei5ilXTpkw0oJM+G8seGeGjWzP1+3OwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eros_\\source\\repos\\test-crud\\test-crud.core\\test_crud.core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eros_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\eros_\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\eros_\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\eros_\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\eros_\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\eros_\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\eros_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

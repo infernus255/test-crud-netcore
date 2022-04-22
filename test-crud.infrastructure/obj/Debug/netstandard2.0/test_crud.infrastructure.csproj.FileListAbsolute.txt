@@ -1,0 +1,5 @@
+C:\Users\eros_\source\repos\test-crud\test-crud.infrastructure\obj\Debug\netstandard2.0\test_crud.infrastructure.csproj.AssemblyReference.cache
+C:\Users\eros_\source\repos\test-crud\test-crud.infrastructure\obj\Debug\netstandard2.0\test_crud.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eros_\source\repos\test-crud\test-crud.infrastructure\obj\Debug\netstandard2.0\test_crud.infrastructure.AssemblyInfoInputs.cache
+C:\Users\eros_\source\repos\test-crud\test-crud.infrastructure\obj\Debug\netstandard2.0\test_crud.infrastructure.AssemblyInfo.cs
+C:\Users\eros_\source\repos\test-crud\test-crud.infrastructure\obj\Debug\netstandard2.0\test_crud.infrastructure.csproj.CoreCompileInputs.cache
