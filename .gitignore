@@ -1,5 +1,5 @@
 # visual studio directory
-.vs/
+.vs/**
 # obj and bin directories
-**/obj
-**/bin
+**/obj/**
+**/bin/**
